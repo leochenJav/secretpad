@@ -111,7 +111,7 @@ springdoc:
 management:
   endpoint:
     shutdown:
-      enabled: false
+      enabled: true
     health:
       show-details: always
   endpoints:
